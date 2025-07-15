@@ -23,13 +23,13 @@ I’m *Bishal, a passionate **Azure DevOps Engineer* with 4+ years of experience
 | Category        | Tools & Technologies |
 |----------------|----------------------|
 | ☁️ Cloud        | Azure, Azure DevOps |
-| ⚙️ IaC          | Terraform, ARM Templates |
+| ⚙️ IaC          | Terraform,|
 | 📦 Containers   | Docker, Kubernetes, ACR, AKS |
 | 🚀 CI/CD        | GitHub Actions, GitLab CI, Azure Pipelines |
 | 🔒 Security     | Trivy, SonarQube |
 | 🐧 Scripting    | Bash, PowerShell |
 | 🔍 Monitoring   | Prometheus, Grafana |
-| 💻 Languages    | Python (Learning), YAML, JSON |
+| 💻 Languages    | , YAML, JSON |
 | 🌐 Frontend     | React.js |
 | 🔙 Backend      | Python Flask |
 | 🛢️ Database     | Azure SQL, MySQL |
