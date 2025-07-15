@@ -48,7 +48,7 @@ I’m *Bishal, a passionate **Azure DevOps Engineer* with 5+ years of experience
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bishal Kumar Das&show_icons=true&theme=tokyonight" alt="Bishal's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishal Kumar Das&theme=tokyonight" alt="Vishal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishal Kumar Das&theme=tokyonight" alt="Bishal's GitHub Streak" />
 </p>
 
 ---
