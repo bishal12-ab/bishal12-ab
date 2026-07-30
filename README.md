@@ -5,17 +5,18 @@
 
 ### 👨‍💻 About Me
 
-I’m *Bishal, a passionate **Azure DevOps Engineer* with 6 years of experience automating infrastructure and managing cloud-native applications using modern DevOps practices. I enjoy building efficient, secure, and scalable systems on *Azure, with a strong focus on **CI/CD, **IaC, and **Kubernetes*.
+I'm an **Azure DevOps Intern** and **Microsoft Certified: Azure Administrator Associate (AZ-104)** with hands-on experience in Microsoft Azure, Azure DevOps, Terraform, Docker, Kubernetes (AKS), and CI/CD automation. I enjoy building cloud infrastructure, automating deployments, and implementing DevOps best practices through real-world projects.
 
-- ☁️ Working on scalable infrastructure using *Azure Cloud* and *Terraform*
-- ⚙️ Building secure and efficient *CI/CD pipelines* using *Azure DevOps, **GitHub Actions, and **GitLab*
-- 🐳 Deploying containerized applications with *Docker* and *Kubernetes (AKS)*
-- 🛡️ Implementing *image scanning with Trivy* and *security best practices*
-- 🐧 Automating tasks on *Linux* using *PowerShell* and *Bash scripting*
-- 📈 Monitoring infrastructure with tools like *Prometheus* and *Grafana*
-- 📚 Currently learning *Python scripting* to improve automation
-- 🛠️ A firm believer in *Infrastructure as Code (IaC)* and DevOps excellence
+- ☁️ Building scalable infrastructure on **Microsoft Azure** using **Terraform**
+- ⚙️ Developing CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **GitLab CI/CD**
+- 🐳 Deploying containerized applications using **Docker** and **Kubernetes (AKS)**
+- 🛡️ Implementing DevSecOps practices using **SonarQube**, **Trivy**, **Checkov**, **TFLint**, and **GitLeaks**
+- 🐧 Automating infrastructure using **Azure CLI**, **Bash**, and **PowerShell**
+- 📈 Monitoring applications using **Prometheus**, **Grafana**, and **Azure Monitor**
+- 🛠️ Passionate about **Infrastructure as Code (IaC)**, Cloud Automation, and DevOps best practices
 
+## 🎓 Certification
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
 ---
 
 ### 🧰 Tech Stack
