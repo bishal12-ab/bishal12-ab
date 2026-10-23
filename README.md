@@ -1,46 +1,67 @@
-<h1 align="center">Hi 👋, I'm Bishal Kumar Das</h1>
-<h3 align="center">🚀 Azure DevOps Engineer | Cloud & Automation Enthusiast</h3>
+# Hi 👋, I'm Bishal Kumar Das
+
+### 🚀 Azure DevOps Engineer | Cloud Infrastructure | CI/CD Automation | DevSecOps
+
+Azure DevOps Engineer with **2.5 years of hands-on experience** in cloud infrastructure, automation, Infrastructure as Code (IaC), containerization, and CI/CD pipeline implementation. Microsoft Certified: Azure Administrator Associate (AZ-104), with practical experience in Microsoft Azure, Terraform, Azure DevOps, Docker, Kubernetes (AKS), and cloud-native deployment workflows.
+
+I enjoy building reliable cloud infrastructure, automating application deployments, improving delivery workflows, and integrating security practices into CI/CD pipelines.
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm an **Azure DevOps Intern** and **Microsoft Certified: Azure Administrator Associate (AZ-104)** with hands-on experience in Microsoft Azure, Azure DevOps, Terraform, Docker, Kubernetes (AKS), and CI/CD automation. I enjoy building cloud infrastructure, automating deployments, and implementing DevOps best practices through real-world projects.
+- ☁️ Designing and provisioning Azure infrastructure using **Terraform (IaC)**
+- ⚙️ Building and maintaining CI/CD pipelines with **Azure DevOps, GitHub Actions, and GitLab CI/CD**
+- 🐳 Building Docker images and deploying containerized applications to **Kubernetes (AKS)**
+- 🛡️ Integrating DevSecOps tools such as **SonarQube, Trivy, Checkov, TFLint, and Gitleaks**
+- 🔐 Working with Azure RBAC, Microsoft Entra ID, Key Vault, and secure service connections
+- 📈 Implementing infrastructure and application monitoring using **Prometheus, Grafana, and Azure Monitor**
+- 🐧 Automating operational tasks with **Azure CLI, Bash, and PowerShell**
+- 🚀 Focused on cloud automation, deployment reliability, and DevOps best practices
 
-- ☁️ Building scalable infrastructure on **Microsoft Azure** using **Terraform**
-- ⚙️ Developing CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **GitLab CI/CD**
-- 🐳 Deploying containerized applications using **Docker** and **Kubernetes (AKS)**
-- 🛡️ Implementing DevSecOps practices using **SonarQube**, **Trivy**, **Checkov**, **TFLint**, and **GitLeaks**
-- 🐧 Automating infrastructure using **Azure CLI**, **Bash**, and **PowerShell**
-- 📈 Monitoring applications using **Prometheus**, **Grafana**, and **Azure Monitor**
-- 🛠️ Passionate about **Infrastructure as Code (IaC)**, Cloud Automation, and DevOps best practices
+---
 
-## 🎓 Certification
+### 🎓 Certification
+
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
+
 ---
 
 ### 🧰 Tech Stack
 
-| Category        | Tools & Technologies |
-|----------------|----------------------|
-| ☁️ Cloud        | Azure, Azure DevOps |
-| ⚙️ IaC          | Terraform,|
-| 📦 Containers   | Docker, Kubernetes, ACR, AKS |
-| 🚀 CI/CD        | GitHub Actions, GitLab CI, Azure Pipelines |
-| 🔒 Security     | Trivy, SonarQube |
-| 🐧 Scripting    | Bash, PowerShell |
-| 🔍 Monitoring   | Prometheus, Grafana |
-| 💻 Languages    | , YAML, JSON |
-| 🌐 Frontend     | React.js |
-| 🔙 Backend      | Python Flask |
-| 🛢️ Database     | Azure SQL, MySQL |
+| Category | Tools & Technologies |
+|---|---|
+| ☁️ Cloud | Microsoft Azure, Azure DevOps |
+| ⚙️ Infrastructure as Code | Terraform |
+| 🚀 CI/CD | Azure Pipelines, GitHub Actions, GitLab CI/CD |
+| 📦 Containers | Docker, Kubernetes, AKS, Azure Container Registry (ACR) |
+| 🔒 DevSecOps | SonarQube, Trivy, Checkov, TFLint, Gitleaks |
+| 🔐 Identity & Security | Azure RBAC, Microsoft Entra ID, Azure Key Vault |
+| 🐧 Scripting | Bash, PowerShell, Azure CLI |
+| 📊 Monitoring | Prometheus, Grafana, Azure Monitor |
+| 📝 Configuration | YAML, JSON |
+| 🌐 Frontend | React.js |
+| 🔙 Backend | Python Flask, .NET |
+| 🛢️ Databases | Azure SQL, MySQL |
+| 🔧 Version Control | Git, GitHub, Azure Repos |
 
 ---
 
-### 📫 How to Reach Me
+### 🚀 Featured Projects
 
-- 📧 Email: bishaldasdevops@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/bishaldasbcom]
+- **Azure Terraform Modules** — Reusable Terraform modules for provisioning Azure infrastructure.
+- **CI/CD with GitHub Actions** — Automated build and deployment workflows with container image security scanning.
+- **AKS Application Deployment** — Containerized application deployments on Azure Kubernetes Service.
+- **Infrastructure Monitoring** — Infrastructure monitoring and visualization using Prometheus and Grafana.
+- **Azure DevOps CI/CD Pipeline** — Automated application build, quality checks, Docker image creation, and Kubernetes deployment.
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [bishaldasdevops@gmail.com](mailto:bishaldasdevops@gmail.com)
+- 💼 LinkedIn: [Bishal Kumar Das](https://www.linkedin.com/in/bishaldasbcom)
+- 💻 GitHub: [bishal12-ab](https://github.com/bishal12-ab)
 
 ---
 
@@ -49,13 +70,10 @@ I'm an **Azure DevOps Intern** and **Microsoft Certified: Azure Administrator As
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bishal12-ab&show_icons=true&theme=tokyonight" alt="Bishal's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal12-abs&theme=tokyonight" alt="Bishal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal12-ab&theme=tokyonight" alt="Bishal's GitHub Streak" />
 </p>
 
 ---
 
-### ✅ Projects I'm Proud Of
-- 📦 azure-terraform-modules: Production-ready Terraform modules for Azure
-- 🚀 ci-cd-github-actions: Secure CI/CD pipeline with GitHub Actions & Trivy
-- ☁️ aks-deployment: Microservices on AKS with Helm
-- 📊 infra-monitoring: Infra monitoring with Prometheus + Grafana
+⭐ *Building, automating, securing, and improving cloud infrastructure one deployment at a time.*
+
